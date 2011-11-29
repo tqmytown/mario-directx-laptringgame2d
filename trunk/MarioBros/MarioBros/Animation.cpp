@@ -2,7 +2,7 @@
 #include "Game.h"
 #include "Graphic.h"
 #include "Sprite.h"
-
+//xx
 Animation::Animation()
 {}
 Animation::Animation(int _numImageInRow,int _numImageInColumn,float _timePerImage,Sprite *sprite)
