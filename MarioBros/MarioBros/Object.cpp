@@ -14,7 +14,7 @@ Object::Object(float _xWorld, float _yWorld, float _width, float _height)
 	height=_height;
 	oldNode=NULL;
 	sprite=NULL;
-	Huong=0;//k 1- trai qua 2 - phai qua
+	Huong=0;//1- trai qua 2 - phai qua
 	ani=NULL;
 	ResetRect();
 }
